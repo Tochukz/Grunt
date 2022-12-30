@@ -12,6 +12,6 @@
     "grunt": "^1.0.4",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-mocha-test": "^0.13.3",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
